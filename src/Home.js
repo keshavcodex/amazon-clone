@@ -1,6 +1,7 @@
 import React from "react";
 import "./css/Home.css";
 import Product from "./Product";
+import database from "./Database";
 
 function Home() {
   return (
