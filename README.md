@@ -1,10 +1,13 @@
-# Getting Started with Create React App
+# Have a look: [Amazon Clone ](https://amazon-clonex.herokuapp.com/)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+To install the dependencies
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Run `npm i`
 
-The page will reload when you make changes.\
+To run the project in development server
+
+### Run `npm start`
+
+Open [LocalHost](http://localhost:3000) to view it in your browser.
